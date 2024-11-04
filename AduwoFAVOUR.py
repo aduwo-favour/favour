@@ -1,7 +1,7 @@
 print("Hello world")
-:git init 
+git init 
 git add hello.py 
 git commit -m "Add hello world script" 
 git branch -M main 
-git remote add origin <URL of your GitHub repository> 
+git remote add origin <https://github.com/aduwo-favour/favour.git> 
 git push -u origin main
